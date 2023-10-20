@@ -30,15 +30,9 @@ This repository serves as a central hub for my cybersecurity-related work. You'l
 
 - **/Notes:** You can access my study notes, cheat sheets, and reference materials. They are organized by course or topic.
 
-- **/Resources:** Find useful resources, such as eBooks, whitepapers, and links to online courses. It's a great place to discover valuable learning materials.
-
 - **Scripts:** I sometimes create custom scripts or code related to my studies or projects, and I share them here.
 
-- **Images:** You'll find images and diagrams that I use in my project READMEs or notes.
-
 - **Presentations:** I occasionally create presentations or slide decks related to my coursework, and you can access them here.
-
-- **Misc:** This is for any other miscellaneous files or documents that don't fit into the other categories.
 
 ## Getting Started
 
