@@ -1,27 +1,24 @@
 # Thu Rein Oo - Cybersecurity Student
 
-👋 Hello, I'm Thu Rein Oo, a Level 5 student at NCC, a cybersecurity enthusiast deeply immersed in Python and web penetration testing.
+👋 Hello, I'm Thu Rein Oo, also Level 5 student at NCC, a cybersecurity enthusiast deeply immersed in Python and web penetration testing.
 
 ## Profile
 
-As a cybersecurity student, I'm passionate about securing the digital world. I specialize in Python programming and excel in the field of web penetration testing. You can often find me exploring new vulnerabilities, securing systems, and sharing my insights on my [EchTit Facebook page](https://www.facebook.com/EchTit).
+As a cybersecurity student, I'm passionate about securing the digital world. I specialize in Python programming and excel in the field of web penetration testing. You can often find me exploring new vulnerabilities, securing systems, and sharing my insights on my [EchTit Facebook page](https://www.facebook.com/echtit1).
 
 ## Projects
 
-### Web Penetration Testing Toolkit
+### Ports scanner with Python
 
-- **Description**: A comprehensive toolkit for web penetration testing, featuring tools and scripts for scanning, vulnerability assessment, and security auditing of web applications.
-- **GitHub Repository**: [Web-Pen-Toolkit](https://github.com/your-username/web-pen-toolkit)
+- **Description**: I wrote this tools with purely python and you can see the guideline of that tool by typing "--help" with comment line. You can look the tools guide in below Youtube Link -- https://youtu.be/F1niOHuMK-Q?si=SUeAa7A_IvtrbRjP
 
-### Python Cybersecurity Scripts
+This code is made for port scanning.
+- **GitHub Repository**: [Ports scanner](https://github.com/thurein2003/Port_scanner_with_python.git)
 
-- **Description**: A collection of Python scripts for various cybersecurity tasks, from network monitoring to automating routine security checks.
-- **GitHub Repository**: [Python-Cyber-Scripts](https://github.com/your-username/python-cyber-scripts)
+### CSCU-NoteTaking
 
-### SecureWeb - Web Security Framework
-
-- **Description**: A web security framework designed to help developers build secure web applications. It includes guidelines, best practices, and security features to mitigate common web vulnerabilities.
-- **GitHub Repository**: [SecureWeb-Framework](https://github.com/your-username/secureweb-framework)
+- **Description**: Only for the person who interesting in Cybersecurity and have to sit the exam in CSCU.
+- **GitHub Repository**: [CSCU-NoteTaking](https://github.com/thurein2003/CSCU-NoteTaking.git)
 
 ## Content
 
@@ -50,4 +47,4 @@ This repository serves as a central hub for my cybersecurity-related work. You'l
 To get started with this repository, you can clone it to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/cybersecurity-tech-student.git
+https://github.com/thurein2003/For-Profile.git
