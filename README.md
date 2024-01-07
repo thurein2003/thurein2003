@@ -28,7 +28,7 @@ This code is made for port scanning.
 This repository serves as a central hub for my cybersecurity-related work. You'll find my projects, study notes, and valuable resources here.
 All of my content can get from this following link.
 ```bash
-[https://thureinooportoflio.carrd.co/](https://thurein2003.github.io/Portfolio/)
+https://thurein2003.github.io/Portfolio/
 ```
 ### Repository Structure
 
