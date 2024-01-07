@@ -23,7 +23,7 @@ This code is made for port scanning.
 - **Description**: Only for the person who interesting in Cybersecurity and have to sit the exam in CSCU.
 - **GitHub Repository**: [CSCU-NoteTaking](https://github.com/thurein2003/CSCU-NoteTaking.git)
 
-## Content
+## My Portfolio Profile
 
 This repository serves as a central hub for my cybersecurity-related work. You'll find my projects, study notes, and valuable resources here.
 All of my content can get from this following link.
