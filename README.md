@@ -1,5 +1,12 @@
 # Thu Rein Oo - Cybersecurity Student
 
+[![Rize's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurein2003)](https://github.com/thurein2003)
+
+
+
+
+
+
 👋 Hello, I'm Thu Rein Oo, also Level 5 student at NCC, a cybersecurity enthusiast deeply immersed in Python and web penetration testing.
 
 ## Profile
