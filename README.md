@@ -1,6 +1,6 @@
 # Thu Rein Oo - Cybersecurity Student
 
-[![Rize's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurein2003)](https://github.com/thurein2003)
+[![Thu Rein Oo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurein2003)](https://github.com/thurein2003)
 
 ## My Portfolio Profile
 
